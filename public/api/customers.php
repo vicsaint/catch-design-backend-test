@@ -28,4 +28,5 @@ $repository = new CustomerRepository(Database::connect());
 //this will check if table has been created
 //$repository->migrate(); 
 
+//formatting to JSON
 ApiResponse::json($repository->paginate($page, $perPage, $search));

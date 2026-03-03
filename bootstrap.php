@@ -5,7 +5,7 @@ declare(strict_types=1);
 $projectRoot = __DIR__;
 /**
  * 
- * description: this will load classess properly int this format App\.. similar to Laravel and the mapping
+ * description: this will load classess properly in this format App\.. similar to Laravel and the mapping
  *              is coming from src/ folder
  * 
  */

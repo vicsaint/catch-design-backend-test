@@ -5,7 +5,7 @@ declare(strict_types=1);
 /**
  * file: ApiResponse.php
  * author: victorS
- * description: class to convert data into JSON
+ * description: class to convert data into JSON, data fomratting
  * date: March 03, 2026
  */
 
