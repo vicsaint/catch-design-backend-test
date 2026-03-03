@@ -69,7 +69,7 @@ If `pdo_sqlite` is enabled in PHP, these commands are enough to create and use t
 Endpoint:
 
 ```text
-GET /api/customers.php
+GET /api/customers.php or http://localhost:8000/api/customers.php
 ```
 
 Query parameters:
