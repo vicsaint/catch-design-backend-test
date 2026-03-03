@@ -1,6 +1,5 @@
-# catch-design-backend-test
-# Backend Developer Test Solution (PHP)
-
+# catch-design-backend-test 
+- Backend Developer Test Solution (PHP)
 This repository contains a small PHP application that completes the brief using:
 
 - PHP 8.3
