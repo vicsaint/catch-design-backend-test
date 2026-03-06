@@ -13,23 +13,24 @@ This repository contains a small PHP application that completes the brief using:
 
 ```text
 .
-|-- bootstrap.php
-|-- data/
-│    customers.csv
-|-- public/
-    |-- api/customers.php
-    |-- app.js
-    |-- index.php
-    |-- styles.css
-|-- scripts/
-    |-- import.php
-    |-- setup.php
-|-- src/
-     |-- ApiResponse.php
-     |-- Config.php
-     |-- CsvCustomerReader.php
-     |-- CustomerRepository.php
-     |-- Database.php
+.
+├── bootstrap.php
+├── data/
+│   └── customers.csv
+├── public/
+│   ├── api/customers.php
+│   ├── app.js
+│   ├── index.php
+│   └── styles.css
+├── scripts/
+│   ├── import.php
+│   └── setup.php
+└── src/
+    ├── ApiResponse.php
+    ├── Config.php
+    ├── CsvCustomerReader.php
+    ├── CustomerRepository.php
+    └── Database.php
 ```
 
 ## Requirements
